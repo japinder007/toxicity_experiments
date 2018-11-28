@@ -1,5 +1,7 @@
 # Detecting-Cyberbullying-Across-SMPs
 
+This is based on - https://github.com/sweta20/Detecting-Cyberbullying-Across-SMPs.
+
 Abstract. Harassment by cyberbullies is a significant phenomenon on the social media. Existing works for cyberbullying detection have at least one of the following three bottlenecks. First, they target only one particular social media platform (SMP). Second, they address just one topic of cyberbullying. Third, they rely on carefully handcrafted features of the data. We show that deep learning based models can overcome all three bottlenecks. Knowledge learned by these models on one dataset can be transferred to other datasets. We performed extensive experiments using three real-world datasets: Formspring (˜12k posts), Twitter (˜16k posts), and Wikipedia(˜100k posts). Our experiments provide several useful insights about cyberbullying detection. To the best of our knowledge, this is the first work that systematically analyzes cyberbullying detection on various topics across multiple SMPs using deep learning based models and transfer learning.
 
 ## Dataset
@@ -32,6 +34,3 @@ We have also used two different kind of embeddings for initialization which can 
 
 To know more about the architecture used and results, please read our paper [here](https://arxiv.org/pdf/1801.06482.pdf).
 
-## Authors
-
-* **Sweta Agrawal** 
